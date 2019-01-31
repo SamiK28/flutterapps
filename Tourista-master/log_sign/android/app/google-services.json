@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545072811417",
+    "firebase_url": "https://log-sign-8389a.firebaseio.com",
+    "project_id": "log-sign-8389a",
+    "storage_bucket": "log-sign-8389a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545072811417:android:3f057ee771a326f2",
+        "android_client_info": {
+          "package_name": "com.example.logsign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545072811417-7n17hk1nqpsug2no123fu95sai95vqs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEs0AqWuvsjeBCgWtaPtYc0w7tqc7vhD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
